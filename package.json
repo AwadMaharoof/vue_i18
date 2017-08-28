@@ -1,7 +1,7 @@
 {
-  "name": "vue_i18l",
+  "name": "vue_i18n",
   "version": "1.0.0",
-  "description": "A tool that generates i18l string for the OAC project",
+  "description": "A tool that generates i18n string for the OAC project",
   "author": "Awad Maharoof",
   "private": true,
   "scripts": {

@@ -1,6 +1,6 @@
-# vue_i18l
+# vue_i18n
 
-> A tool that generates i18l string for the OAC project
+> A tool that generates i18n string for the OAC project
 
 ## Build Setup
 
