@@ -9,6 +9,11 @@ import router from './router';
 
 Vue.config.productionTip = false;
 Vue.use(BootstrapVue);
+
+Vue.component('foot', {
+  template: '<div class="row"><a target="_blank" href="https://github.com/AwadMaharoof">Awad Maharoof 2017</a></div>',
+});
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',

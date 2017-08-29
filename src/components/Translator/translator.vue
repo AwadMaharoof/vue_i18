@@ -44,6 +44,7 @@
         <pre>{{createString(french)}}</pre>
       </div>
     </div>
+    <foot></foot>
   </div>
 </template>
 
